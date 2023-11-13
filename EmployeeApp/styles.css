@@ -1,0 +1,22 @@
+
+
+body {
+  background-color: rgb(150, 89, 194);
+}
+
+.container-box {
+  border: 2px solid rgb(78, 24, 78);
+  background-color: rgba(241, 190, 241, 0.597);
+  padding: 20px; 
+  margin-top: 20px;
+  width: 50%;
+  margin: auto;
+  border-radius: 10px; 
+}
+
+.container{
+    display: grid;
+   justify-content: center;
+    margin-top: 200px;
+
+}
